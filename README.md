@@ -1,8 +1,8 @@
 # 🛠️ Minecraft Server - Expertly Managed with Pterodactyl Panel
 
-![GitHub stars](https://img.shields.io/github/stars/vedantdevs/minecraft-server?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/vedantdevs/minecraft-server?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/vedantdevs/minecraft-server?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/vedantdevs/pterodactyl-panel?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/vedantdevs/pterodactyl-panel?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/vedantdevs/pterodactyl-panel?style=for-the-badge)
 
 ## 🚀 About the Server
 This Minecraft server is meticulously hosted and managed using **Pterodactyl Panel**, showcasing high expertise in server administration, performance optimization, and seamless control over server operations.
