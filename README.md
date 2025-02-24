@@ -17,7 +17,7 @@ This Minecraft server is meticulously hosted and managed using **Pterodactyl Pan
 
 ## 📸 Server Management Showcase
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedantdevs/pralay/main/pterodactyl.png" width="70%" alt="Pralay in Action">
+  <img src="https://raw.githubusercontent.com/vedantdevs/pterodactyl-panel/main/pterodactyl.png" width="70%">
 </p>
 
 ## 🛠️ Installation & Setup Guide
